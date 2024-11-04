@@ -1,0 +1,13 @@
+.env
+generated.go
+gqlgen.yml
+*.db
+.vscode/
+*.log
+*.test
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
